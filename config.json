@@ -1,0 +1,22 @@
+{
+    "user": {
+        "name": "Sir",
+        "email": "",
+        "password": ""
+    },
+    "paths": {
+        "music": "",
+        "documents": "",
+        "downloads": ""
+    },
+    "apis": {
+        "wolframalpha": "",
+        "openweathermap": "",
+        "newsapi": ""
+    },
+    "preferences": {
+        "voice_speed": 1.0,
+        "language": "en",
+        "temperature_unit": "celsius"
+    }
+}
